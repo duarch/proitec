@@ -4,17 +4,17 @@ Coleção de material para estudo de conhecimentos em TI
 
 ## Indice
 
-[Lógica de Programação](#lógica-de-programação)
-[Conceitos de Orientação a Objetos](#conceitos-de-orientação-a-objetos)
-[Git](#git) 
-[Gerenciamento de Dependências](#gerenciamento-de-dependências) 
-[Automação de Testes](#automação-de-testes) 
-[Bancos de Dados Relacionais](#bancos-de-dados-relacionais)
-[Bancos de Dados não Relacionais](#bancos-de-dados-não-relacionais)
-[Integração Contínua (CI)](#integração-contínua) 
-[Redes](#redes)
-[Métodos Ágeis](#métodos-ágeis) 
-[Sistemas Operacionais](#sistemas-operacionais) 
+- [Lógica de Programação](#lógica-de-programação)
+- [Conceitos de Orientação a Objetos](#conceitos-de-orientação-a-objetos)
+- [Git](#git) 
+- [Gerenciamento de Dependências](#gerenciamento-de-dependências) 
+- [Automação de Testes](#automação-de-testes) 
+- [Bancos de Dados Relacionais](#bancos-de-dados-relacionais)
+- [Bancos de Dados não Relacionais](#bancos-de-dados-não-relacionais)
+- [Integração Contínua (CI)](#integração-contínua-ci) 
+- [Redes](#redes)
+- [Métodos Ágeis](#métodos-ágeis) 
+- [Sistemas Operacionais](#sistemas-operacionais) 
 
 
 
@@ -26,6 +26,13 @@ Dependências necessárias para se instalar o software e como instalá-las.
 Dê um exemplo
 ```
 ## Lógica de Programação 
+
+ Conhecimento  | Escopo |  Fonte | Observação 
+:---: | :---: | --- | --- 
+Lógica de Programação | Java 11 | [link](https://www.google.com)  | PT-BR 
+Lógica de Programação | JavaScript ES7 | [link](https://www.google.com) | English 
+Lógica de Programação |  Python 3 | [link](https://www.google.com)  | PT-BR, EN
+
 ## Conceitos de Orientação a Objetos 
 ## Git 
 ## Gerenciamento de Dependências 
@@ -37,11 +44,7 @@ Dê um exemplo
 ## Métodos Ágeis 
 ## Sistemas Operacionais 
 
- Conhecimento  | Escopo |  Fonte | Observação 
-:---: | :---: | --- | --- 
-Lógica de Programação | Java 11 | [link](https://www.google.com)  | PT-BR 
-Lógica de Programação | JavaScript ES7 | [link](https://www.google.com) | English 
-Lógica de Programação |  Python 3 | [link](https://www.google.com)  | PT-BR, EN
+
 
 ### Instalação
 
