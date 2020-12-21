@@ -8,13 +8,13 @@ Coleção de material para estudo de conhecimentos em TI
 [Conceitos de Orientação a Objetos](#conceitos-de-orientação-a-objetos)
 [Git](#git) 
 [Gerenciamento de Dependências](#gerenciamento-de-dependências) 
-[Automação de Testes]() 
-[Bancos de Dados Relacionais]()
-[Bancos de Dados não Relacionais]()
-[Integração Contínua (CI)]() 
-[Redes]()
+[Automação de Testes](#automação-de-testes) 
+[Bancos de Dados Relacionais](#bancos-de-dados-relacionais)
+[Bancos de Dados não Relacionais](#bancos-de-dados-não-relacionais)
+[Integração Contínua (CI)](#integração-contínua) 
+[Redes](#redes)
 [Métodos Ágeis](#métodos-ágeis) 
-[Sistemas Operacionais]() 
+[Sistemas Operacionais](#sistemas-operacionais) 
 
 
 
