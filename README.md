@@ -74,14 +74,11 @@ Site ... |  Python 3 | [exemplo.com](https://www.google.com)  | PT-BR, EN, html
 ## Contribuições
 
 Por favor leia [CONTRIBUTING.md]() para mais detalhes a respeito do nosso código de contuda e o processo de submissão de pull-requests para nós.
-
-## Versionamento
-
-Nós usamos [SemVer](http://semver.org/) para versionamento. Para visualizar as versões disponíveis veja [tags nesse repositórios](https://github.com/your/project/tags). 
+ 
 
 ## Autores
 
-* **André Duarte** - *- [@duarch](https://github.com/duarch)
+* **André Duarte** [@duarch](https://github.com/duarch)
 
 Veja também a lista completa de [contribuidores](https://github.com/your/project/contributors) que contribuiram para o desenvolvimento deste projeto.
 
