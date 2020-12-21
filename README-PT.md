@@ -14,6 +14,12 @@ Dependências necessárias para se instalar o software e como instalá-las.
 Dê um exemplo
 ```
 
+ Conhecimento  | Escopo |  Fonte | Observação 
+:---: | :---: | --- | --- 
+Lógica de Programação | Java 11 | [link](https://www.google.com)  | PT-BR 
+Lógica de Programação | JavaScript ES7 | [link](https://www.google.com) | English 
+Lógica de Programação |  Python 3 | [link](https://www.google.com)  | PT-BR, EN
+
 ### Instalação
 
 Passo a passo seguidos de exemplos mostrando como se obter o ambiente de desenvolvimento rodando. É uma boa prática colocar o modo de instalação para Windows, macOS e para as principais distribuições Linux.
