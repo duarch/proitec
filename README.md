@@ -1,87 +1,95 @@
-# Project Title
+# Material para estudo
 
-One Paragraph of project description goes here
+Coleção de material para estudo de conhecimentos em TI 
 
-## Getting Started
+## Índice
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+- [Lógica de Programação](#lógica-de-programação)
+- [Conceitos de Orientação a Objetos](#conceitos-de-orientação-a-objetos)
+- [Git](#git) 
+- [Gerenciamento de Dependências](#gerenciamento-de-dependências) 
+- [Automação de Testes](#automação-de-testes) 
+- [Bancos de Dados Relacionais](#bancos-de-dados-relacionais)
+- [Bancos de Dados não Relacionais](#bancos-de-dados-não-relacionais)
+- [Integração Contínua (CI)](#integração-contínua-ci) 
+- [Redes](#redes)
+- [Métodos Ágeis](#métodos-ágeis) 
+- [Sistemas Operacionais](#sistemas-operacionais) 
 
-### Prerequisites
 
-What things you need to install the software and how to install them
+## Lógica de Programação 
 
-```
-Give examples
-```
+ Descrição  | Escopo |  Fonte | Observação 
+:---: | :---: | --- | --- 
+Curso de Lógica de Programação | Java 11 | [link](https://www.google.com)  | PT-BR 
+Curso de Lógica de Programação | JavaScript ES7 | [link](https://www.google.com) | English 
+Curso de Lógica de Programação |  Python 3 | [link](https://www.google.com)  | PT-BR, EN
 
-### Installing
+[⤴️](#índice)
+## Conceitos de Orientação a Objetos 
+ Descrição  | Escopo |  Fonte | Observação 
+:---: | :---: | --- | --- 
+Curso ... | Java 11 | [exemplo.com](https://www.google.com)  | PT-BR, pdf
+Vídeo ... | JavaScript ES7 | [exemplo.com](https://www.google.com) | English, on-line 
+Site ... |  Python 3 | [exemplo.com](https://www.google.com)  | PT-BR, EN, html 
 
-A step by step series of examples that tell you how to get a development env running
+[⤴️](#índice)
+## Git 
+ Descrição  | Escopo |  Fonte | Observação 
+:---: | :---: | --- | --- 
+Curso ... | Java 11 | [exemplo.com](https://www.google.com)  | PT-BR, pdf
+Vídeo ... | JavaScript ES7 | [exemplo.com](https://www.google.com) | English, on-line 
+Site ... |  Python 3 | [exemplo.com](https://www.google.com)  | PT-BR, EN, html 
 
-Say what the step will be
+[⤴️](#índice)
+## Gerenciamento de Dependências 
 
-```
-Give the example
-```
+[⤴️](#índice)
+## Automação de Testes 
 
-And repeat
+[⤴️](#índice)
+## Bancos de Dados Relacionais
 
-```
-until finished
-```
+[⤴️](#índice)
+## Bancos de Dados não Relacionais
 
-End with an example of getting some data out of the system or using it for a little demo
+[⤴️](#índice)
+## Integração Contínua (CI) 
 
-## Running the tests
+[⤴️](#índice)
+## Redes
 
-Explain how to run the automated tests for this system
+[⤴️](#índice)
+## Métodos Ágeis 
 
-### Break down into end to end tests
+[⤴️](#índice)
+## Sistemas Operacionais 
 
-Explain what these tests test and why
+[⤴️](#índice)
 
-```
-Give an example
-```
 
-### And coding style tests
 
-Explain what these tests test and why
 
-```
-Give an example
-```
+## Contribuições
 
-## Deployment
+Por favor leia [CONTRIBUTING.md]() para mais detalhes a respeito do nosso código de contuda e o processo de submissão de pull-requests para nós.
 
-Add additional notes about how to deploy this on a live system
+## Versionamento
 
-## Built With
+Nós usamos [SemVer](http://semver.org/) para versionamento. Para visualizar as versões disponíveis veja [tags nesse repositórios](https://github.com/your/project/tags). 
 
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
-* [Maven](https://maven.apache.org/) - Dependency Management
-* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
+## Autores
 
-## Contributing
+* **André Duarte** - *- [@duarch](https://github.com/duarch)
 
-Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
+Veja também a lista completa de [contribuidores](https://github.com/your/project/contributors) que contribuiram para o desenvolvimento deste projeto.
 
-## Versioning
+## Licença
 
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags). 
+Esse projeto é licenciado pela MIT License - veja também [LICENSE.md](LICENSE.md) para mais detalhes
 
-## Authors
+## Agradecimentos
 
-* **André Duarte** - [duarch](https://github.com/duarch)
+* Obrigado
 
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
-
-## Acknowledgments
-
-* Hat tip to anyone whose code was used
-* Inspiration
-* etc
