@@ -1,10 +1,22 @@
 # Material para estudo
 
-Um parágrafo simples dando uma descrição sobre o projeto 
+Coleção de material para estudo de conhecimentos em TI 
 
-## Começando
+## Indice
 
-As instruções a seguir irão lhe proporcionar uma cópia deste projeto e de como rodar em sua máquina local para propósito de desenvolvimento e testes. Veja na sessão de [deployment](#Deployment) para saber com mais detalhes de como dar deploy em sua aplicação.
+[Lógica de Programação](#Lógica de Programação)
+Conceitos de Orientação a Objetos 
+Git 
+Gerenciamento de Dependências 
+Automação de Testes 
+Bancos de Dados Relacionais
+Bancos de Dados não Relacionais
+Integração Contínua (CI) 
+Redes
+Métodos Ágeis 
+Sistemas Operacionais 
+
+
 
 ### Pre-requisitos
 
@@ -13,6 +25,17 @@ Dependências necessárias para se instalar o software e como instalá-las.
 ```
 Dê um exemplo
 ```
+## Lógica de Programação 
+## Conceitos de Orientação a Objetos 
+## Git 
+## Gerenciamento de Dependências 
+## Automação de Testes 
+## Bancos de Dados Relacionais
+## Bancos de Dados não Relacionais
+## Integração Contínua (CI) 
+## Redes
+## Métodos Ágeis 
+## Sistemas Operacionais 
 
  Conhecimento  | Escopo |  Fonte | Observação 
 :---: | :---: | --- | --- 
