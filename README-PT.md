@@ -27,14 +27,22 @@ Dê um exemplo
 ```
 ## Lógica de Programação 
 
- Conhecimento  | Escopo |  Fonte | Observação 
+ Descrição  | Escopo |  Fonte | Observação 
 :---: | :---: | --- | --- 
-Lógica de Programação | Java 11 | [link](https://www.google.com)  | PT-BR 
-Lógica de Programação | JavaScript ES7 | [link](https://www.google.com) | English 
-Lógica de Programação |  Python 3 | [link](https://www.google.com)  | PT-BR, EN
+Curso de Lógica de Programação | Java 11 | [link](https://www.google.com)  | PT-BR 
+Curso de Lógica de Programação | JavaScript ES7 | [link](https://www.google.com) | English 
+Curso de Lógica de Programação |  Python 3 | [link](https://www.google.com)  | PT-BR, EN
 
 ## Conceitos de Orientação a Objetos 
+ Descrição  | Escopo |  Fonte | Observação 
+:---: | :---: | --- | --- 
+Curso de Lógica de Programação | Java 11 | [link](https://www.google.com)  | PT-BR 
+
 ## Git 
+ Descrição  | Escopo |  Fonte | Observação 
+:---: | :---: | --- | --- 
+Curso de Lógica de Programação | Java 11 | [link](https://www.google.com)  | PT-BR 
+
 ## Gerenciamento de Dependências 
 ## Automação de Testes 
 ## Bancos de Dados Relacionais
