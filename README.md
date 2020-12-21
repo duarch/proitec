@@ -80,7 +80,7 @@ Por favor leia [CONTRIBUTING.md](https://github.com/duarch/proitec/blob/master/C
 
 * **André Duarte** [@duarch](https://github.com/duarch)
 
-Veja também a lista completa de [contribuidores](https://github.com/your/project/contributors) que contribuiram para o desenvolvimento deste projeto.
+Veja também a lista completa de [contribuidores](https://github.com/duarch/proitec/contributors) que contribuiram para o desenvolvimento deste projeto.
 
 ## Licença
 
