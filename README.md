@@ -73,7 +73,7 @@ Site ... |  Python 3 | [exemplo.com](https://www.google.com)  | PT-BR, EN, html
 
 ## Contribuições
 
-Por favor leia [CONTRIBUTING.md]() para mais detalhes a respeito do nosso código de contuda e o processo de submissão de pull-requests para nós.
+Por favor leia [CONTRIBUTING.md](https://github.com/duarch/proitec/blob/master/CONTRIBUTING.md) para mais detalhes a respeito do nosso código de contuda e o processo de submissão de pull-requests para nós.
  
 
 ## Autores
