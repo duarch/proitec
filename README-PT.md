@@ -2,7 +2,7 @@
 
 Coleção de material para estudo de conhecimentos em TI 
 
-## Indice
+## Índice
 
 - [Lógica de Programação](#lógica-de-programação)
 - [Conceitos de Orientação a Objetos](#conceitos-de-orientação-a-objetos)
@@ -17,14 +17,6 @@ Coleção de material para estudo de conhecimentos em TI
 - [Sistemas Operacionais](#sistemas-operacionais) 
 
 
-
-### Pre-requisitos
-
-Dependências necessárias para se instalar o software e como instalá-las.
-
-```
-Dê um exemplo
-```
 ## Lógica de Programação 
 
  Descrição  | Escopo |  Fonte | Observação 
@@ -32,6 +24,8 @@ Dê um exemplo
 Curso de Lógica de Programação | Java 11 | [link](https://www.google.com)  | PT-BR 
 Curso de Lógica de Programação | JavaScript ES7 | [link](https://www.google.com) | English 
 Curso de Lógica de Programação |  Python 3 | [link](https://www.google.com)  | PT-BR, EN
+
+[⤴️](índice)
 
 ## Conceitos de Orientação a Objetos 
  Descrição  | Escopo |  Fonte | Observação 
