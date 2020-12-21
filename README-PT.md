@@ -36,12 +36,16 @@ Curso de Lógica de Programação |  Python 3 | [link](https://www.google.com)  
 ## Conceitos de Orientação a Objetos 
  Descrição  | Escopo |  Fonte | Observação 
 :---: | :---: | --- | --- 
-Curso de Lógica de Programação | Java 11 | [link](https://www.google.com)  | PT-BR 
+Curso ... | Java 11 | [exemplo.com](https://www.google.com)  | PT-BR, pdf
+Vídeo ... | JavaScript ES7 | [exemplo.com](https://www.google.com) | English, on-line 
+Site ... |  Python 3 | [exemplo.com](https://www.google.com)  | PT-BR, EN, html 
 
 ## Git 
  Descrição  | Escopo |  Fonte | Observação 
 :---: | :---: | --- | --- 
-Curso de Lógica de Programação | Java 11 | [link](https://www.google.com)  | PT-BR 
+Curso ... | Java 11 | [exemplo.com](https://www.google.com)  | PT-BR, pdf
+Vídeo ... | JavaScript ES7 | [exemplo.com](https://www.google.com) | English, on-line 
+Site ... |  Python 3 | [exemplo.com](https://www.google.com)  | PT-BR, EN, html 
 
 ## Gerenciamento de Dependências 
 ## Automação de Testes 
