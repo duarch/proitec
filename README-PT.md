@@ -4,7 +4,7 @@ Coleção de material para estudo de conhecimentos em TI
 
 ## Indice
 
-[Lógica de Programação](#Lógica de Programação)
+[Lógica de Programação](#Lógica)
 Conceitos de Orientação a Objetos 
 Git 
 Gerenciamento de Dependências 
