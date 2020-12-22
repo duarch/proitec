@@ -34,8 +34,8 @@ Welcome to Java for Python Programmers |  Java | [Java for Python Programmers](h
 
  Descrição  | Escopo |  Fonte | Observação 
 :---: | :---: | --- | --- 
-Curso ... | Java 11 | [exemplo.com](https://www.google.com)  | PT-BR, pdf
-Vídeo ... | JavaScript ES7 | [exemplo.com](https://www.google.com) | English, on-line 
+OOP using Java - Simon Kendal (PDF) | Java | [Object Oriented Programming using Java](https://bookboon.com/en/object-oriented-programming-using-java-ebook)  | EN, pdf
+Thinking & Programming - Rudolf Pecinovsky | Java | [OOP - Learn Object Oriented Thinking & Programming](http://pub.bruckner.cz/titles/oop) | EN, pdf 
 Site ... |  Python 3 | [exemplo.com](https://www.google.com)  | PT-BR, EN, html 
 
 #### [⇱ home](#material-para-estudo)
