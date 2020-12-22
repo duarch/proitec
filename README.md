@@ -26,7 +26,7 @@ Coleção de material para estudo de conhecimentos em TI
 :---: | :---: | --- | --- 
 Lógica de Programação | Iniciantes | [Lógica de Programação para iniciantes](https://dicasdeprogramacao.com.br/download/ebook-logica-de-programacao-para-iniciantes.pdf)  |  PT-BR, pdf 
 Algoritmos e Programação Fabricio Ferrari e Cristian Cechinel  | Geral | [Introdução a Algoritmos e Programação](http://www.ferrari.pro.br/home/documents/FFerrari-CCechinel-Introducao-a-algoritmos.pdf) | PT-BR, pdf
-Curso de Lógica de Programação |  Python 3 | [link](https://www.google.com)  | PT-BR, EN
+Welcome to Java for Python Programmers |  Java | [Java for Python Programmers](https://runestone.academy/runestone/books/published/java4python/index.html)  | EN, html
 
 #### [⇱ home](#material-para-estudo)
 
