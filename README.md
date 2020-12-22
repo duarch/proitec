@@ -27,7 +27,7 @@ Coleção de material para estudo de conhecimentos em TI
  Descrição  | Escopo |  Fonte | Observação 
 :---: | :---: | --- | --- 
 Lógica de Programação | Iniciantes | [Lógica de Programação para iniciantes](https://dicasdeprogramacao.com.br/download/ebook-logica-de-programacao-para-iniciantes.pdf)  |  PT-BR, pdf 
-Algoritmos e Programação Fabricio Ferrari e Cristian Cechinel  | Geral | [Introdução a Algoritmos e Programação](http://www.ferrari.pro.br/home/documents/FFerrari-CCechinel-Introducao-a-algoritmos.pdf) | PT-BR, pdf
+Algoritmos e Programação - Fabricio Ferrari e Cristian Cechinel  | Geral | [Introdução a Algoritmos e Programação](http://www.ferrari.pro.br/home/documents/FFerrari-CCechinel-Introducao-a-algoritmos.pdf) | PT-BR, pdf
 Welcome to Java for Python Programmers |  Java | [Java for Python Programmers](https://runestone.academy/runestone/books/published/java4python/index.html)  | EN, html
 Site - Aprenda computação com Python | Python  | [Aprenda computação com Python](https://aprendendo-computacao-com-python.readthedocs.org/en/latest/index.html) | PT-BR, html
 Site - Guia | Python 3 | [O Guia do Mochileiro para Python!](https://python-guide-pt-br.readthedocs.io/pt_BR/latest/) | PT-BR, html
@@ -54,22 +54,31 @@ Python Orientado a Objetos | Python | [Python Orientado a Objetos](https://docs.
 
  Descrição  | Escopo |  Fonte | Observação 
 :---: | :---: | --- | --- 
-Curso ... | Java 11 | [exemplo.com](https://www.google.com)  | PT-BR, pdf
-Vídeo ... | JavaScript ES7 | [exemplo.com](https://www.google.com) | English, on-line 
-Site ... |  Python 3 | [exemplo.com](https://www.google.com)  | PT-BR, EN, html 
+Git - guia prático | Geral | [Git - guia prático](http://rogerdudler.github.io/git-guide/index.pt_BR.html) | PT-BR, html
+Git Magic | Geral | [Git Magic](http://www-cs-students.stanford.edu/~blynn/gitmagic/intl/pt_br/) | PT-BR, html
+Controle de Versão - LTIA UNESP | Geral | [Minicurso - Controle de Versão usando o Git](https://github.com/ltiaunesp/Git-Minicurso) | PT-BR, html
+Pro Git | Geral | [Pro Git](http://git-scm.com/book/pt-br/) | PT-BR, html
+
+
 
 #### [⇱ home](#material-para-estudo)
 ## Gerenciamento de Dependencias
 
  Descrição  | Escopo |  Fonte | Observação 
 :---: | :---: | --- | --- 
-a | x | [exemplo.com](https://www.google.com)  | PT-BR, pdf
+a | Geral | [exemplo.com](https://www.google.com)  | PT-BR, html
 
 
 
 
 #### [⇱ home](#material-para-estudo)
 ## Automação de Testes 
+
+ Descrição  | Escopo |  Fonte | Observação 
+:---: | :---: | --- | --- 
+Curso ... | Java 11 | [exemplo.com](https://www.google.com)  | PT-BR, pdf
+Vídeo ... | JavaScript ES7 | [exemplo.com](https://www.google.com) | English, on-line 
+Site ... |  Python 3 | [exemplo.com](https://www.google.com)  | PT-BR, EN, html 
 
 #### [⇱ home](#material-para-estudo)
 ## Bancos de Dados Relacionais
