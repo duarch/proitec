@@ -28,6 +28,7 @@ Curso de Lógica de Programação |  Python 3 | [link](https://www.google.com)  
 
 [⤴️](#índice)
 ## Conceitos de Orientação a Objetos 
+
  Descrição  | Escopo |  Fonte | Observação 
 :---: | :---: | --- | --- 
 Curso ... | Java 11 | [exemplo.com](https://www.google.com)  | PT-BR, pdf
@@ -36,6 +37,7 @@ Site ... |  Python 3 | [exemplo.com](https://www.google.com)  | PT-BR, EN, html
 
 [⤴️](#índice)
 ## Git 
+
  Descrição  | Escopo |  Fonte | Observação 
 :---: | :---: | --- | --- 
 Curso ... | Java 11 | [exemplo.com](https://www.google.com)  | PT-BR, pdf
@@ -65,6 +67,7 @@ Site ... |  Python 3 | [exemplo.com](https://www.google.com)  | PT-BR, EN, html
 
 [⤴️](#índice)
 ## Sistemas Operacionais 
+
  Descrição  | Escopo |  Fonte | Observação 
 :---: | :---: | --- | --- 
 Sistemas Operacionais - Carlos A. Maziero | Geral | [Sistemas Operacionais: Conceitos e Mecanismos](http://wiki.inf.ufpr.br/maziero/lib/exe/fetch.php?media=socm:socm-livro.pdf)  | PT-BR, pdf
