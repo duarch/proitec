@@ -1,5 +1,5 @@
 # Material para estudo
-![GitHub tag (latest SemVer pre-release)](https://img.shields.io/github/v/tag/duarch/proitec?include_prereleases&label=current&sort=semver&style=flat-square)
+![GitHub release (latest SemVer)](https://img.shields.io/github/v/release/duarch/proitec?sort=semver&style=flat-square)
 
 Coleção de material para estudo de conhecimentos em TI 
 
