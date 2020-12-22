@@ -27,6 +27,12 @@ Coleção de material para estudo de conhecimentos em TI
 Lógica de Programação | Iniciantes | [Lógica de Programação para iniciantes](https://dicasdeprogramacao.com.br/download/ebook-logica-de-programacao-para-iniciantes.pdf)  |  PT-BR, pdf 
 Algoritmos e Programação Fabricio Ferrari e Cristian Cechinel  | Geral | [Introdução a Algoritmos e Programação](http://www.ferrari.pro.br/home/documents/FFerrari-CCechinel-Introducao-a-algoritmos.pdf) | PT-BR, pdf
 Welcome to Java for Python Programmers |  Java | [Java for Python Programmers](https://runestone.academy/runestone/books/published/java4python/index.html)  | EN, html
+Site - Aprenda computação com Python | Python  | [Aprenda computação com Python](https://aprendendo-computacao-com-python.readthedocs.org/en/latest/index.html) | PT-BR, html
+Site - Guia | Python 3 | [O Guia do Mochileiro para Python!](https://python-guide-pt-br.readthedocs.io/pt_BR/latest/) | PT-BR, html
+Site - O tutorial de Python | Python 2 | [O tutorial de Python](http://turing.com.br/pydoc/2.7/tutorial/) | PT-BR, html
+Livro - Allen B. Downey | Python 3 | [Pense em Python](https://penseallen.github.io/PensePython2e) | PT-BR, html
+
+
 
 #### [⇱ home](#material-para-estudo)
 
@@ -37,6 +43,9 @@ Welcome to Java for Python Programmers |  Java | [Java for Python Programmers](h
 OOP using Java - Simon Kendal (PDF) | Java | [Object Oriented Programming using Java](https://bookboon.com/en/object-oriented-programming-using-java-ebook)  | EN, pdf
 Thinking & Programming - Rudolf Pecinovsky | Java | [OOP - Learn Object Oriented Thinking & Programming](http://pub.bruckner.cz/titles/oop) | EN, pdf 
 You Don't Know JS - Kyle Simpson | JavaScript | [You Don't Know JS](https://github.com/cezaraugusto/You-Dont-Know-JS)  | PT-BR, EN, html, pdf 
+Python e Orientação a Objetos - Caelum | Python | [Python e Orientação a Objetos](https://www.caelum.com.br/apostila-python-orientacao-a-objetos/) | PT-BR, html
+Python Funcional - Eduardo Mendes | Python | [Python Funcional](https://dunossauro.github.io/python-funcional/) | PT-BR, html
+Python Orientado a Objetos | Python | [Python Orientado a Objetos](https://docs.google.com/viewer?a=v&pid=sites&srcid=ZGVmYXVsdGRvbWFpbnxyYWZhZWx1ZnR8Z3g6NTJlM2UzYzY1ZTgzMDEwMw) (PDF) | PT-BR, pdf
 
 #### [⇱ home](#material-para-estudo)
 ## Git 
@@ -48,7 +57,14 @@ Vídeo ... | JavaScript ES7 | [exemplo.com](https://www.google.com) | English, o
 Site ... |  Python 3 | [exemplo.com](https://www.google.com)  | PT-BR, EN, html 
 
 #### [⇱ home](#material-para-estudo)
-## Gerenciamento de Dependencias 
+## Gerenciamento de Dependencias
+
+ Descrição  | Escopo |  Fonte | Observação 
+:---: | :---: | --- | --- 
+a | x | [exemplo.com](https://www.google.com)  | PT-BR, pdf
+
+
+
 
 #### [⇱ home](#material-para-estudo)
 ## Automação de Testes 
