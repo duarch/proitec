@@ -4,7 +4,7 @@
 Coleção de material para estudo de conhecimentos em TI 
 <hr />
 
-## Índice
+#### Índice
 
 - [Lógica de Programação (Java 11, JavaScript ES7, Python 3)](#lógica-de-programação)
 - [Conceitos de Orientação a Objetos](#conceitos-de-orientação-a-objetos)
