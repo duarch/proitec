@@ -6,21 +6,21 @@ Coleção de material para estudo de conhecimentos em TI
 
 #### Índice
 
-- [Lógica de Programação (Java 11, JavaScript ES7, Python 3)](#lógica-de-programação)
-- [Conceitos de Orientação a Objetos](#conceitos)
+- [Lógica de Programação (Java 11, JavaScript ES7, Python 3)](#logica-de-programacao)
+- [Conceitos de Orientação a Objetos](#conceitos-de-orientacao-a-objetos)
 - [Git](#git) 
-- [Gerenciamento de Dependências](#gerenciamento-de-dependências) 
-- [Automação de Testes](#automação-de-testes) 
+- [Gerenciamento de Dependências](#gerenciamento-de-dependencias) 
+- [Automação de Testes](#automacao-de-testes) 
 - [Bancos de Dados Relacionais (SQL, formas normais)](#bancos-de-dados-relacionais)
-- [Bancos de Dados não Relacionais](#bancos-de-dados-não-relacionais)
-- [Integração Contínua (CI)](#integração-contínua-ci) 
+- [Bancos de Dados não Relacionais](#bancos-de-dados-nao-relacionais)
+- [Integração Contínua (CI)](#integracao-continua-ci) 
 - [Redes (endereçamento IP, DNS, http, TLS/mTLS)](#redes)
 - [Métodos Ágeis](#metodos-ageis) 
 - [Sistemas Operacionais (Windows e Linux)](#sistemas-operacionais) 
 
 <hr />
 
-## Lógica de Programação 
+## Logica de Programacao 
 
  Descrição  | Escopo |  Fonte | Observação 
 :---: | :---: | --- | --- 
@@ -30,7 +30,7 @@ Curso de Lógica de Programação |  Python 3 | [link](https://www.google.com)  
 
 #### [⇱ home](#material-para-estudo)
 
-## Conceitos de Orientação a Objetos 
+## Conceitos de Orientacao a Objetos 
 
  Descrição  | Escopo |  Fonte | Observação 
 :---: | :---: | --- | --- 
@@ -48,7 +48,7 @@ Vídeo ... | JavaScript ES7 | [exemplo.com](https://www.google.com) | English, o
 Site ... |  Python 3 | [exemplo.com](https://www.google.com)  | PT-BR, EN, html 
 
 #### [⇱ home](#material-para-estudo)
-## Gerenciamento de Dependências 
+## Gerenciamento de Dependencias 
 
 #### [⇱ home](#material-para-estudo)
 ## Automação de Testes 
@@ -57,16 +57,16 @@ Site ... |  Python 3 | [exemplo.com](https://www.google.com)  | PT-BR, EN, html
 ## Bancos de Dados Relacionais
 
 #### [⇱ home](#material-para-estudo)
-## Bancos de Dados não Relacionais
+## Bancos de Dados nao Relacionais
 
 #### [⇱ home](#material-para-estudo)
-## Integração Contínua (CI) 
+## Integracao Continua (CI) 
 
 #### [⇱ home](#material-para-estudo)
 ## Redes
 
 #### [⇱ home](#material-para-estudo)
-## Métodos Ágeis 
+## Metodos Ageis 
 
 #### [⇱ home](#material-para-estudo)
 ## Sistemas Operacionais 
