@@ -65,6 +65,11 @@ Site ... |  Python 3 | [exemplo.com](https://www.google.com)  | PT-BR, EN, html
 
 [⤴️](#índice)
 ## Sistemas Operacionais 
+ Descrição  | Escopo |  Fonte | Observação 
+:---: | :---: | --- | --- 
+Sistemas Operacionais - Carlos A. Maziero | Geral | [Sistemas Operacionais: Conceitos e Mecanismos](http://wiki.inf.ufpr.br/maziero/lib/exe/fetch.php?media=socm:socm-livro.pdf)  | PT-BR, pdf
+Guia - Gleydson Maziolli | Linux | [Guia Foca Linux](https://www.guiafoca.org/#download) | PT-BR, pdf/html 
+Think OS - Allen B. Downey |  General | [A Brief Introduction to Operating Systems](http://www.greenteapress.com/thinkos/index.html) | EN, pdf/html 
 
 [⤴️](#índice)
 
