@@ -36,7 +36,7 @@ Welcome to Java for Python Programmers |  Java | [Java for Python Programmers](h
 :---: | :---: | --- | --- 
 OOP using Java - Simon Kendal (PDF) | Java | [Object Oriented Programming using Java](https://bookboon.com/en/object-oriented-programming-using-java-ebook)  | EN, pdf
 Thinking & Programming - Rudolf Pecinovsky | Java | [OOP - Learn Object Oriented Thinking & Programming](http://pub.bruckner.cz/titles/oop) | EN, pdf 
-Site ... |  Python 3 | [exemplo.com](https://www.google.com)  | PT-BR, EN, html 
+You Don't Know JS - Kyle Simpson | JavaScript | [You Don't Know JS](https://github.com/cezaraugusto/You-Dont-Know-JS)  | PT-BR, EN, html, pdf 
 
 #### [⇱ home](#material-para-estudo)
 ## Git 
