@@ -24,8 +24,8 @@ Coleção de material para estudo de conhecimentos em TI
 
  Descrição  | Escopo |  Fonte | Observação 
 :---: | :---: | --- | --- 
-Curso de Lógica de Programação | Java 11 | [link](https://www.google.com)  | PT-BR 
-Curso de Lógica de Programação | JavaScript ES7 | [link](https://www.google.com) | English 
+Lógica de Programação | Iniciantes | [Lógica de Programação para iniciantes](https://dicasdeprogramacao.com.br/download/ebook-logica-de-programacao-para-iniciantes.pdf)  |  PT-BR, pdf 
+Algoritmos e Programação Fabricio Ferrari e Cristian Cechinel  | Geral | [Introdução a Algoritmos e Programação](http://www.ferrari.pro.br/home/documents/FFerrari-CCechinel-Introducao-a-algoritmos.pdf) | PT-BR, pdf
 Curso de Lógica de Programação |  Python 3 | [link](https://www.google.com)  | PT-BR, EN
 
 #### [⇱ home](#material-para-estudo)
