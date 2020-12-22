@@ -18,6 +18,7 @@ Coleção de material para estudo de conhecimentos em TI
 - [Métodos Ágeis](#métodos-ágeis) 
 - [Sistemas Operacionais (Windows e Linux)](#sistemas-operacionais) 
 
+<hr />
 
 ## Lógica de Programação 
 
