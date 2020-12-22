@@ -81,22 +81,22 @@ Think OS - Allen B. Downey |  General | [A Brief Introduction to Operating Syste
 
 
 
-## Contribuições
+#### Contribuições
 
 Por favor leia [CONTRIBUTING.md](https://github.com/duarch/proitec/blob/master/CONTRIBUTING.md) para mais detalhes a respeito do nosso código de contuda e o processo de submissão de pull-requests para nós.
  
 
-## Autores
+#### Autores
 
 * **André Duarte** [@duarch](https://github.com/duarch)
 
 Veja também a lista completa de [contribuidores](https://github.com/duarch/proitec/contributors) que contribuiram para o desenvolvimento deste projeto.
 
-## Licença
+#### Licença
 
 Esse projeto é licenciado pela MIT License - veja também [LICENSE.md](LICENSE.md) para mais detalhes
 
-## Agradecimentos
+#### Agradecimentos
 
 * Obrigado
 
