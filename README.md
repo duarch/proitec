@@ -5,17 +5,17 @@ Coleção de material para estudo de conhecimentos em TI
 
 ## Índice
 
-- [Lógica de Programação](#lógica-de-programação)
+- [Lógica de Programação (Java 11, JavaScript ES7, Python 3)](#lógica-de-programação)
 - [Conceitos de Orientação a Objetos](#conceitos-de-orientação-a-objetos)
 - [Git](#git) 
 - [Gerenciamento de Dependências](#gerenciamento-de-dependências) 
 - [Automação de Testes](#automação-de-testes) 
-- [Bancos de Dados Relacionais](#bancos-de-dados-relacionais)
+- [Bancos de Dados Relacionais (SQL, formas normais)](#bancos-de-dados-relacionais)
 - [Bancos de Dados não Relacionais](#bancos-de-dados-não-relacionais)
 - [Integração Contínua (CI)](#integração-contínua-ci) 
-- [Redes](#redes)
+- [Redes (endereçamento IP, DNS, http, TLS/mTLS)](#redes)
 - [Métodos Ágeis](#métodos-ágeis) 
-- [Sistemas Operacionais](#sistemas-operacionais) 
+- [Sistemas Operacionais (Windows e Linux)](#sistemas-operacionais) 
 
 
 ## Lógica de Programação 
