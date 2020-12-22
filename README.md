@@ -57,7 +57,7 @@ Python Orientado a Objetos | Python | [Python Orientado a Objetos](https://docs.
 Git - guia prático | Geral | [Git - guia prático](http://rogerdudler.github.io/git-guide/index.pt_BR.html) | PT-BR, html
 Git Magic | Geral | [Git Magic](http://www-cs-students.stanford.edu/~blynn/gitmagic/intl/pt_br/) | PT-BR, html
 Controle de Versão - LTIA UNESP | Geral | [Minicurso - Controle de Versão usando o Git](https://github.com/ltiaunesp/Git-Minicurso) | PT-BR, html
-Pro Git | Geral | [Pro Git](http://git-scm.com/book/pt-br/) | PT-BR, html
+Pro Git | Geral | [Pro Git](http://git-scm.com/book/pt-br/) | PT-BR, vários
 
 
 
@@ -93,7 +93,7 @@ Site ... |  Python 3 | [exemplo.com](https://www.google.com)  | PT-BR, EN, html
 :---: | :---: | --- | --- 
 CI - Integração Contínua Sem Desculpa | Geral |  [CI - Integração Contínua Sem Desculpa](https://ci.mrprompt.com.br) | PT-BR, html
 Livro Deploy em produção - Rafael Gomes | Geral |  [Deploy em produção para desenvolvedores](https://leanpub.com/deployemprodparadevs) | PT-BR, vários
-Livro Primeiros passos - Marcos Brizeno | Geral |  [Primeiros passos com Padrões de Projeto](https://leanpub.com/primeiros-passos-com-padroes-de-projeto/) | PT-BR, html
+Livro Primeiros passos - Marcos Brizeno | Geral |  [Primeiros passos com Padrões de Projeto](https://leanpub.com/primeiros-passos-com-padroes-de-projeto/) | PT-BR, vários
 
 #### [⇱ home](#material-para-estudo)
 ## Redes
@@ -104,6 +104,9 @@ Livro Primeiros passos - Marcos Brizeno | Geral |  [Primeiros passos com Padrõe
  Descrição  | Escopo |  Fonte | Observação 
 :---: | :---: | --- | --- 
 a | Geral | [exemplo.com](https://www.google.com)  | PT-BR, html
+Kanban e Scrum | - |  [Kanban e Scrum - obtendo o melhor de ambos](http://www.infoq.com/br/minibooks/kanban-scrum-minibook) | PT-BR, pdf
+Kanban em 10 Passos | Kanban |  [Kanban em 10 Passos](http://www.infoq.com/br/minibooks/priming-kanban-jesper-boeg) | PT-BR, pdf
+Scrum e XP | Scrum |  [Scrum e XP direto das Trincheiras](http://www.infoq.com/br/minibooks/scrum-xp-from-the-trenches) | PT-BR, pdf
 
 #### [⇱ home](#material-para-estudo)
 ## Sistemas Operacionais 
