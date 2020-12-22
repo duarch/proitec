@@ -15,7 +15,7 @@ Coleção de material para estudo de conhecimentos em TI
 - [Bancos de Dados não Relacionais](#bancos-de-dados-não-relacionais)
 - [Integração Contínua (CI)](#integração-contínua-ci) 
 - [Redes (endereçamento IP, DNS, http, TLS/mTLS)](#redes)
-- [Métodos Ágeis](#métodos-ágeis) 
+- [Métodos Ágeis](#metodos-ageis) 
 - [Sistemas Operacionais (Windows e Linux)](#sistemas-operacionais) 
 
 <hr />
