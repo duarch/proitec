@@ -28,7 +28,7 @@ Curso de Lógica de Programação | Java 11 | [link](https://www.google.com)  | 
 Curso de Lógica de Programação | JavaScript ES7 | [link](https://www.google.com) | English 
 Curso de Lógica de Programação |  Python 3 | [link](https://www.google.com)  | PT-BR, EN
 
-[⤴️](#índice)
+[`⇱`](#índice)
 ## Conceitos de Orientação a Objetos 
 
  Descrição  | Escopo |  Fonte | Observação 
@@ -37,7 +37,7 @@ Curso ... | Java 11 | [exemplo.com](https://www.google.com)  | PT-BR, pdf
 Vídeo ... | JavaScript ES7 | [exemplo.com](https://www.google.com) | English, on-line 
 Site ... |  Python 3 | [exemplo.com](https://www.google.com)  | PT-BR, EN, html 
 
-[⤴️](#índice)
+[`⇱`](#índice)
 ## Git 
 
  Descrição  | Escopo |  Fonte | Observação 
@@ -46,28 +46,28 @@ Curso ... | Java 11 | [exemplo.com](https://www.google.com)  | PT-BR, pdf
 Vídeo ... | JavaScript ES7 | [exemplo.com](https://www.google.com) | English, on-line 
 Site ... |  Python 3 | [exemplo.com](https://www.google.com)  | PT-BR, EN, html 
 
-[⤴️](#índice)
+[`⇱`](#índice)
 ## Gerenciamento de Dependências 
 
-[⤴️](#índice)
+[`⇱`](#índice)
 ## Automação de Testes 
 
-[⤴️](#índice)
+[`⇱`](#índice)
 ## Bancos de Dados Relacionais
 
-[⤴️](#índice)
+[`⇱`](#índice)
 ## Bancos de Dados não Relacionais
 
-[⤴️](#índice)
+[`⇱`](#índice)
 ## Integração Contínua (CI) 
 
-[⤴️](#índice)
+[`⇱`](#índice)
 ## Redes
 
-[⤴️](#índice)
+[`⇱`](#índice)
 ## Métodos Ágeis 
 
-[⤴️](#índice)
+[`⇱`](#índice)
 ## Sistemas Operacionais 
 
  Descrição  | Escopo |  Fonte | Observação 
@@ -76,7 +76,7 @@ Sistemas Operacionais - Carlos A. Maziero | Geral | [Sistemas Operacionais: Conc
 Guia - Gleydson Maziolli | Linux | [Guia Foca Linux](https://www.guiafoca.org/#download) | PT-BR, pdf/html 
 Think OS - Allen B. Downey |  General | [A Brief Introduction to Operating Systems](http://www.greenteapress.com/thinkos/index.html) | EN, pdf/html 
 
-[⤴️](#índice)
+[`⇱`](#índice))
 
 
 
