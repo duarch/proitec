@@ -2,6 +2,7 @@
 ![GitHub release (latest SemVer)](https://img.shields.io/github/v/release/duarch/proitec?sort=semver&style=flat-square)
 
 Coleção de material para estudo de conhecimentos em TI 
+<hr />
 
 ## Índice
 
