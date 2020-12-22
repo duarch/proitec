@@ -7,7 +7,7 @@ Coleção de material para estudo de conhecimentos em TI
 #### Índice
 
 - [Lógica de Programação (Java 11, JavaScript ES7, Python 3)](#lógica-de-programação)
-- [Conceitos de Orientação a Objetos](#conceitos-de-orientação-a-objetos)
+- [Conceitos de Orientação a Objetos](#conceitos)
 - [Git](#git) 
 - [Gerenciamento de Dependências](#gerenciamento-de-dependências) 
 - [Automação de Testes](#automação-de-testes) 
