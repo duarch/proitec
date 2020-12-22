@@ -28,16 +28,7 @@ Curso de Lógica de Programação | Java 11 | [link](https://www.google.com)  | 
 Curso de Lógica de Programação | JavaScript ES7 | [link](https://www.google.com) | English 
 Curso de Lógica de Programação |  Python 3 | [link](https://www.google.com)  | PT-BR, EN
 
-
-[`⇱`](#índice)
-
-<kbd>[⇱ home](#índice)</kbd>
-
-[`⇱ home`](#índice)
-
-[⇱ home](#índice)
-
-#### [⇱ home](#índice)
+#### [⇱ home](#material-para-estudo)
 
 ## Conceitos de Orientação a Objetos 
 
@@ -47,7 +38,7 @@ Curso ... | Java 11 | [exemplo.com](https://www.google.com)  | PT-BR, pdf
 Vídeo ... | JavaScript ES7 | [exemplo.com](https://www.google.com) | English, on-line 
 Site ... |  Python 3 | [exemplo.com](https://www.google.com)  | PT-BR, EN, html 
 
-[`⇱`](#índice)
+#### [⇱ home](#material-para-estudo)
 ## Git 
 
  Descrição  | Escopo |  Fonte | Observação 
@@ -56,28 +47,28 @@ Curso ... | Java 11 | [exemplo.com](https://www.google.com)  | PT-BR, pdf
 Vídeo ... | JavaScript ES7 | [exemplo.com](https://www.google.com) | English, on-line 
 Site ... |  Python 3 | [exemplo.com](https://www.google.com)  | PT-BR, EN, html 
 
-[`⇱`](#índice)
+#### [⇱ home](#material-para-estudo)
 ## Gerenciamento de Dependências 
 
-[`⇱`](#índice)
+#### [⇱ home](#material-para-estudo)
 ## Automação de Testes 
 
-[`⇱`](#índice)
+#### [⇱ home](#material-para-estudo)
 ## Bancos de Dados Relacionais
 
-[`⇱`](#índice)
+#### [⇱ home](#material-para-estudo)
 ## Bancos de Dados não Relacionais
 
-[`⇱`](#índice)
+#### [⇱ home](#material-para-estudo)
 ## Integração Contínua (CI) 
 
-[`⇱`](#índice)
+#### [⇱ home](#material-para-estudo)
 ## Redes
 
-[`⇱`](#índice)
+#### [⇱ home](#material-para-estudo)
 ## Métodos Ágeis 
 
-[`⇱`](#índice)
+#### [⇱ home](#material-para-estudo)
 ## Sistemas Operacionais 
 
  Descrição  | Escopo |  Fonte | Observação 
@@ -86,7 +77,7 @@ Sistemas Operacionais - Carlos A. Maziero | Geral | [Sistemas Operacionais: Conc
 Guia - Gleydson Maziolli | Linux | [Guia Foca Linux](https://www.guiafoca.org/#download) | PT-BR, pdf/html 
 Think OS - Allen B. Downey |  General | [A Brief Introduction to Operating Systems](http://www.greenteapress.com/thinkos/index.html) | EN, pdf/html 
 
-[`⇱`](#índice))
+#### [⇱ home](#material-para-estudo)
 
 
 
