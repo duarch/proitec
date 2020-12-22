@@ -89,11 +89,21 @@ Site ... |  Python 3 | [exemplo.com](https://www.google.com)  | PT-BR, EN, html
 #### [⇱ home](#material-para-estudo)
 ## Integracao Continua (CI) 
 
+ Descrição  | Escopo |  Fonte | Observação 
+:---: | :---: | --- | --- 
+CI - Integração Contínua Sem Desculpa | Geral |  [CI - Integração Contínua Sem Desculpa](https://ci.mrprompt.com.br) | PT-BR, html
+Livro Deploy em produção - Rafael Gomes | Geral |  [Deploy em produção para desenvolvedores](https://leanpub.com/deployemprodparadevs) | PT-BR, vários
+Livro Primeiros passos - Marcos Brizeno | Geral |  [Primeiros passos com Padrões de Projeto](https://leanpub.com/primeiros-passos-com-padroes-de-projeto/) | PT-BR, html
+
 #### [⇱ home](#material-para-estudo)
 ## Redes
 
 #### [⇱ home](#material-para-estudo)
 ## Metodos Ageis 
+
+ Descrição  | Escopo |  Fonte | Observação 
+:---: | :---: | --- | --- 
+a | Geral | [exemplo.com](https://www.google.com)  | PT-BR, html
 
 #### [⇱ home](#material-para-estudo)
 ## Sistemas Operacionais 
