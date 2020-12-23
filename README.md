@@ -48,6 +48,7 @@ You Don't Know JS - Kyle Simpson | JavaScript | [You Don't Know JS](https://gith
 Python e Orientação a Objetos - Caelum | Python | [Python e Orientação a Objetos](https://www.caelum.com.br/apostila-python-orientacao-a-objetos/) | PT-BR, html
 Python Funcional - Eduardo Mendes | Python | [Python Funcional](https://dunossauro.github.io/python-funcional/) | PT-BR, html
 Python Orientado a Objetos | Python | [Python Orientado a Objetos](https://docs.google.com/viewer?a=v&pid=sites&srcid=ZGVmYXVsdGRvbWFpbnxyYWZhZWx1ZnR8Z3g6NTJlM2UzYzY1ZTgzMDEwMw) (PDF) | PT-BR, pdf
+OOP Explained | Geral | [What is Object Oriented Programming?](https://www.educative.io/blog/object-oriented-programming)  | EN, html
 
 #### [⇱ home](#material-para-estudo)
 ## Git 
