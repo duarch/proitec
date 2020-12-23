@@ -135,7 +135,7 @@ Veja também a lista completa de [contribuidores](https://github.com/duarch/proi
 
 #### Licença
 
-Esse projeto é licenciado pela MIT License - veja também [LICENSE.md](LICENSE.md) para mais detalhes
+Esse projeto é licenciado pela MIT License - veja também [LICENSE.md](https://github.com/duarch/proitec/blob/master/LICENSE) para mais detalhes
 
 #### Agradecimentos
 
