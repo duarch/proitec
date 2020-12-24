@@ -22,7 +22,7 @@ Coleção de material para estudo de conhecimentos em TI
 
 <hr />
 
-## Logica de Programacao 
+## Logica de Programacao
 
  Descrição  | Escopo |  Fonte | Observação 
 :---: | :---: | --- | --- 
@@ -38,7 +38,7 @@ Livro - Allen B. Downey | Python 3 | [Pense em Python](https://penseallen.github
 
 #### [⇱ home](#material-para-estudo)
 
-## Conceitos de Orientacao a Objetos 
+## Conceitos de Orientacao a Objetos
 
  Descrição  | Escopo |  Fonte | Observação 
 :---: | :---: | --- | --- 
@@ -51,7 +51,7 @@ Python Orientado a Objetos | Python | [Python Orientado a Objetos](https://docs.
 OOP Explained | Geral | [What is Object Oriented Programming?](https://www.educative.io/blog/object-oriented-programming)  | EN, html
 
 #### [⇱ home](#material-para-estudo)
-## Git 
+## Git
 
  Descrição  | Escopo |  Fonte | Observação 
 :---: | :---: | --- | --- 
@@ -73,7 +73,7 @@ a | Geral | [exemplo.com](https://www.google.com)  | PT-BR, html
 
 
 #### [⇱ home](#material-para-estudo)
-## Automação de Testes 
+## Automação de Testes
 
  Descrição  | Escopo |  Fonte | Observação 
 :---: | :---: | --- | --- 
@@ -88,7 +88,7 @@ Site ... |  Python 3 | [exemplo.com](https://www.google.com)  | PT-BR, EN, html
 ## Bancos de Dados nao Relacionais
 
 #### [⇱ home](#material-para-estudo)
-## Integracao Continua (CI) 
+## Integracao Continua (CI)
 
  Descrição  | Escopo |  Fonte | Observação 
 :---: | :---: | --- | --- 
@@ -100,7 +100,7 @@ Livro Primeiros passos - Marcos Brizeno | Geral |  [Primeiros passos com Padrõe
 ## Redes
 
 #### [⇱ home](#material-para-estudo)
-## Metodos Ageis 
+## Metodos Ageis
 
  Descrição  | Escopo |  Fonte | Observação 
 :---: | :---: | --- | --- 
@@ -110,7 +110,7 @@ Kanban em 10 Passos | Kanban |  [Kanban em 10 Passos](http://www.infoq.com/br/mi
 Scrum e XP | Scrum |  [Scrum e XP direto das Trincheiras](http://www.infoq.com/br/minibooks/scrum-xp-from-the-trenches) | PT-BR, pdf
 
 #### [⇱ home](#material-para-estudo)
-## Sistemas Operacionais 
+## Sistemas Operacionais
 
  Descrição  | Escopo |  Fonte | Observação 
 :---: | :---: | --- | --- 
