@@ -81,11 +81,30 @@ Curso ... | Java 11 | [exemplo.com](https://www.google.com)  | PT-BR, pdf
 Vídeo ... | JavaScript ES7 | [exemplo.com](https://www.google.com) | English, on-line 
 Site ... |  Python 3 | [exemplo.com](https://www.google.com)  | PT-BR, EN, html 
 
+
+
+
+
 #### [⇱ home](#material-para-estudo)
 ## Bancos de Dados Relacionais
 
 #### [⇱ home](#material-para-estudo)
 ## Bancos de Dados nao Relacionais
+
+ Descrição  | Escopo |  Fonte | Observação 
+:---: | :---: | --- | --- 
+Introduction to MongoDB | MongoDB | [tutorialspoint.com](https://www.tutorialspoint.com/mongodb) | EN, html
+MongoDB Koans | MongoDB | [MongoDB Koans](https://github.com/chicagoruby/MongoDB_Koans) | EN, html
+The Little MongoDB Book | MongoDB | [openmymind.net](http://openmymind.net/2011/3/28/The-Little-MongoDB-Book/) 
+MongoDB Succinctly | MongoDB | [syncfusion.com](https://www.syncfusion.com/resources/techportal/ebooks/mongodb) | EN, pdf/Kindle
+NoSQL Databases - Christof Strauch | Geral | [christof-strauch.de](http://www.christof-strauch.de/nosqldbs.pdf) | EN, pdf
+CouchDB: The Definitive Guide | CouchDB | [couchdb.org](http://guide.couchdb.org)  | EN, pdf/epub
+Extracting Data from NoSQL - Petter Nasholm | Geral | [chalmers.se](http://publications.lib.chalmers.se/records/fulltext/155048.pdf) | EN, pdf
+Graph Databases | Graph | [Graph Databases](http://graphdatabases.com) | EN, html
+The Little Redis Book - K. Seguin | Geral | [openmymind.net](http://openmymind.net/2012/1/23/The-Little-Redis-Book/) | EN, pdf/epub
+
+
+
 
 #### [⇱ home](#material-para-estudo)
 ## Integracao Continua (CI)
