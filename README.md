@@ -88,6 +88,10 @@ Site ... |  Python 3 | [exemplo.com](https://www.google.com)  | PT-BR, EN, html
 #### [⇱ home](#material-para-estudo)
 ## Bancos de Dados Relacionais
 
+ Descrição  | Escopo |  Fonte | Observação 
+:---: | :---: | --- | --- 
+Bancos de Dados | Noções gerais | [Fuvest - Engenharia da computação](https://www.youtube.com/playlist?list=PLxI8Can9yAHeHQr2McJ01e-ANyh3K0Lfq)  | Vídeo - Playlist
+
 #### [⇱ home](#material-para-estudo)
 ## Bancos de Dados nao Relacionais
 
@@ -159,6 +163,6 @@ Esse projeto é licenciado pela MIT License - veja também [LICENSE.md](https://
 
 #### Agradecimentos
 
-* Obrigado
+* [Lígia Mello](https://github.com/LiCuru)
 
 
