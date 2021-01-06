@@ -42,6 +42,7 @@ Livro - Allen B. Downey | Python 3 | [Pense em Python](https://penseallen.github
 
  Descrição  | Escopo |  Fonte | Observação 
 :---: | :---: | --- | --- 
+POO: o que é programação orientada a objetos? | Geral | [Alura](https://www.alura.com.br/artigos/poo-programacao-orientada-a-objetos) | PT-BR, html
 OOP using Java - Simon Kendal (PDF) | Java | [Object Oriented Programming using Java](https://bookboon.com/en/object-oriented-programming-using-java-ebook)  | EN, pdf
 Thinking & Programming - Rudolf Pecinovsky | Java | [OOP - Learn Object Oriented Thinking & Programming](http://pub.bruckner.cz/titles/oop) | EN, pdf 
 You Don't Know JS - Kyle Simpson | JavaScript | [You Don't Know JS](https://github.com/cezaraugusto/You-Dont-Know-JS)  | PT-BR, EN, html, pdf 
